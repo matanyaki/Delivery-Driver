@@ -1,0 +1,23 @@
+# Ignore Unity-generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+.vscode/
+
+# Ignore specific file types that Unity generates
+*.csproj
+*.sln
+*.pidb
+*.suo
+*.user
+*.booproj
+*.DS_Store
+
+# Optional: OS-specific and editor-specific files
+.DS_Store
+Thumbs.db
